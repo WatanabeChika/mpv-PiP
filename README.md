@@ -23,7 +23,7 @@ Press **`Alt+P`** to toggle Picture-in-Picture mode on/off. Then you can use the
 
 - Entering fullscreen while in PiP mode will automatically disable PiP and enter fullscreen normally.
 - The script handles file transitions properly - PiP mode persists when loading new videos.
-- Original window settings are preserved even when MPV saves state via *watchlater*.
+- Original window settings are preserved even when MPV saves state via *watchlater* when `save-position-on-quit` is true.
 
 ## Acknowledgments
 
