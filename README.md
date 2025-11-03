@@ -17,7 +17,7 @@ This script adds Picture-in-Picture functionality to MPV media player, allowing 
 
 ## Usage
 
-Press **`Alt+P`** to toggle Picture-in-Picture mode on/off. Then you can use the mouse to freely resize the window and adjust its position.
+Press **`Alt+p`** to toggle Picture-in-Picture mode on/off. Then you can use the mouse to freely resize the window and adjust its position.
 
 ### Automatic Behavior
 
